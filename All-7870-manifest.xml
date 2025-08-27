@@ -23,7 +23,7 @@
     <project name="android_device_samsung_universal7870-common" path="device/samsung/universal7870-common" remote="samsungexynos7870" revision="crdroid" />
 
     <!-- Kernel -->
-    <project name="android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="samsungexynos7870" revision="aosp" />
+    <project name="android_kernel_samsung_exynos7870_liam" path="kernel/samsung/exynos7870" remote="Batuhantrkgl" revision="aosp" />
 
     <!-- Vendors -->
     <project name="android_vendor_samsung_j7y17lte" path="vendor/samsung/j7y17lte" remote="batuhantrkgl" revision="common" />
